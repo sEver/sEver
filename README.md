@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sEver
+- 👋 Hi, I’m `sEver`
 - 👀 I’m interested in making WebGames and other fun apps.
 - 🌱 I’m currently learning how to consolidate my online presence.
 - 💞️ I’m looking to collaborate on teaching people how to code.
