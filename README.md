@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning how to consolidate my online presence.
 - 💞️ I’m looking to collaborate on teaching people how to code for Web.
 - 📫 How to reach me - do not. I'll reach you.
-- My codepen with some fun concepts: https://codepen.io/sEver
-- My favourite side-project created and maintained with a friend: https://github.com/qudlaty/BloodAndBullets
+- 💡 My codepen with some fun concepts: https://codepen.io/sEver
+- 🎮 My favourite side-project created and maintained with a friend: https://github.com/qudlaty/BloodAndBullets
 
 
 <!---
