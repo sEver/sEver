@@ -6,6 +6,7 @@
 - 📫 How to reach me - do not. I'll reach you.
 - 💡 My codepen with some fun concepts: https://codepen.io/sEver
 - 🎮 My favourite side-project created and maintained with a friend: https://github.com/qudlaty/BloodAndBullets
+- HackerRank: https://www.hackerrank.com/profile/sEver_c0des
 
 <!---
 sEver/sEver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
