@@ -8,7 +8,7 @@
 - 🎮 My favourite side-project created and maintained with a friend: https://github.com/qudlaty/BloodAndBullets
 - ⭐ HackerRank: https://hackerrank.com/profile/sEver_c0des
 - 👨‍💻 LeetCode: https://leetcode.com/u/sEver_c0des
-
+- 🐜 Screeps: https://screeps.com/a/#!/profile/sEver
 <!---
 sEver/sEver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
