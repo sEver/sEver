@@ -12,7 +12,7 @@
 - 👨‍💻 LeetCode: https://leetcode.com/u/sEver_c0des
 - 🐜 Screeps: https://screeps.com/a/#!/profile/sEver
 - 🎨 UserStyles: https://userstyles.world/user/sEver && https://userstyles.org/user-profile/4523124
-- 💻 Stack Overflow: https://stackoverflow.com/users/656871/sEver
+- 💻 Stack Overflow: https://stackoverflow.com/users/656871/sEver?tab=profile
 - 🌐 More random docs: https://sEver.github.io
 <!---
 sEver/sEver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
