@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `sEver`
+- 👋 Hi, I’m `sEver` []-]
 - 👀 I’m interested in making WebGames and other fun apps
 - 🖤 Passionate about UI
 - 🤗 I love to expand the frontiers of what we think is possible to do with WebTech
