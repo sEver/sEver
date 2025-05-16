@@ -1,8 +1,8 @@
 - 👋 Hi, I’m `sEver` []-]
 - 👀 I’m interested in making WebGames and other fun apps
-- 🖤 Passionate about UI
+- 🖤 Passionate about UI and The Web
 - 🤗 I love to expand the frontiers of what we think is possible to do with WebTech
-- 💞️ I’m looking to collaborate on teaching people how to code for Web
+- 💞️ I’m looking to collaborate on teaching people how to code for The Web
 - 📫 How to reach me - do not. I'll reach you.
 
 ### Links
