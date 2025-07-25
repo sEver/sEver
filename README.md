@@ -5,13 +5,20 @@
 - 💞️ I’m looking to collaborate on teaching people how to code for The Web
 - 📫 How to reach me - do not. I'll reach you.
 
-### Links
+### My Links
+
 - 💡 My codepen with some fun concepts: https://codepen.io/sEver
 - 🎮 My favourite side-project created and maintained with a friend: https://github.com/qudlaty/BloodAndBullets
+####
 - ⭐ HackerRank: https://hackerrank.com/profile/sEver_c0des
 - 👨‍💻 LeetCode: https://leetcode.com/u/sEver_c0des
+####
 - 🐜 Screeps: https://screeps.com/a/#!/profile/sEver
+####
 - 🎨 UserStyles: https://userstyles.world/user/sEver && https://userstyles.org/user-profile/4523124
+- ⚙ Browser Extensions: 
+  - [No Games On Netflix](https://chromewebstore.google.com/detail/olklalacecdkgffndehmmlndckbcanik?utm_source=item-share-cb)
+####
 - 💻 Stack Overflow: https://stackoverflow.com/users/656871/sEver?tab=profile
 - 🌐 More random docs: https://sEver.github.io
 <!---
