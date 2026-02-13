@@ -22,7 +22,7 @@
 - 💻 Stack Overflow: https://stackoverflow.com/users/656871/sEver?tab=profile
 - 🌐 More random docs: https://sEver.github.io
 
-- ☕ [Cofee is the blood of code](https://buymeacoffee.com/sever_codes)
+- ☕ [Coffee is the blood of code](https://buymeacoffee.com/sever_codes)
 <!---
 sEver/sEver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
