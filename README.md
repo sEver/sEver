@@ -12,7 +12,7 @@
 ####
 - ⭐ HackerRank: https://hackerrank.com/profile/sEver_c0des
 - 👨‍💻 LeetCode: https://leetcode.com/u/sEver_c0des
-- 📚 Google Developer Platform https://g.dev/sEvercodEs
+- 📚 Google Developer Program https://g.dev/sEvercodEs
 ####
 - 🐜 Screeps: https://screeps.com/a/#!/profile/sEver
 ####
