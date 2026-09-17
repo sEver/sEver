@@ -12,6 +12,8 @@
 ####
 - ⭐ HackerRank: https://hackerrank.com/profile/sEver_c0des
 - 👨‍💻 LeetCode: https://leetcode.com/u/sEver_c0des
+- 💥 CodeWars: https://www.codewars.com/users/sEver/stats
+- 🎨 CSSBattle: https://cssbattle.dev/player/sever
 - 📚 Google Developer Program https://g.dev/sEvercodEs
 ####
 - 🐜 Screeps: https://screeps.com/a/#!/profile/sEver
